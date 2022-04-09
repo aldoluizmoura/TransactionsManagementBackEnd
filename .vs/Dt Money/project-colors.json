@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8fa4ac6f-8475-4bfc-8650-0b2cb1c066ed": {
+      "ProjectGuid": "8fa4ac6f-8475-4bfc-8650-0b2cb1c066ed",
+      "DisplayName": "Dt Money",
+      "ColorIndex": 0
+    },
+    "2b0a34b5-ba89-4c28-a53d-ab0a2b01f506": {
+      "ProjectGuid": "2b0a34b5-ba89-4c28-a53d-ab0a2b01f506",
+      "DisplayName": "DtMoney.Api",
+      "ColorIndex": 1
+    },
+    "7b1faf80-cc8e-496d-8c49-cf87c7ecf5d9": {
+      "ProjectGuid": "7b1faf80-cc8e-496d-8c49-cf87c7ecf5d9",
+      "DisplayName": "DtMoney.Infra",
+      "ColorIndex": 2
+    },
+    "342a8b34-6127-4105-ba15-37da53fdb3dc": {
+      "ProjectGuid": "342a8b34-6127-4105-ba15-37da53fdb3dc",
+      "DisplayName": "DtMoney.Services",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

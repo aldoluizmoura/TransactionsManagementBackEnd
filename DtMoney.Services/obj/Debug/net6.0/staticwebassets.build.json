@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "aItuOSSnToxMqMxo0Jw0lKblBNywLRP518CgAqatAhA=",
+  "Source": "DtMoney.Services",
+  "BasePath": "_content/DtMoney.Services",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\Estudos\\c#\\Dt Money\\DtMoney.Infra\\DtMoney.Infra.csproj",
+      "Version": 2,
+      "Source": "DtMoney.Infra",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
